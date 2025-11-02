@@ -1,6 +1,6 @@
 # 🚀 Full Stack App
 
-A simple full-stack JavaScript project with a **client** (frontend) and a **server** (backend).  
+A full-stack JavaScript project with a **client** (frontend) and a **server** (backend).  
 Just install the dependencies, run the dev commands, and boom 💥 — your app is up and running!
 We are open to contributions
 ---
