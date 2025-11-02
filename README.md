@@ -25,4 +25,4 @@ cd server && npm run dev
 ```
 cd client && npm run dev
 ```
-#Boom your app is ready to setup
+# Boom your app is ready to setup
